@@ -1,0 +1,1 @@
+Express.js boilerplate using es6 setup with Babel and webpack
